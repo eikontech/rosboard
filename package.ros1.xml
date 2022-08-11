@@ -4,8 +4,12 @@
   <name>rosboard</name>
   <version>1.2.1</version>
   <description>ROSBoard</description>
-  <maintainer email="dheera.r.e.m.o.v.e.t.h.i.s@dheera.net">dheera</maintainer>
+  <maintainer email="simone.nardi@eikontech.it">Simone Nardi</maintainer>
   <license>BSD</license>
+
+  <depend>python3-tornado</depend>
+  <depend>python3-simplejpeg-pip</depend>
+
   <buildtool_depend>catkin</buildtool_depend>
   <export>
   </export>
